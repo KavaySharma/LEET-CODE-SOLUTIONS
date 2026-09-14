@@ -6,9 +6,15 @@ Here are the Leet code solutions of my completed code problems
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0326-power-of-three) |
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0326-power-of-three) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
