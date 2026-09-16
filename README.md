@@ -25,4 +25,12 @@ Here are the Leet code solutions of my completed code problems
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0283-move-zeroes) |
+## Binary Search
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0278-first-bad-version) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
