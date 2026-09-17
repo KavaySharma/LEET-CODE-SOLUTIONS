@@ -21,6 +21,7 @@ Here are the Leet code solutions of my completed code problems
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0283-move-zeroes) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -33,4 +34,12 @@ Here are the Leet code solutions of my completed code problems
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0278-first-bad-version) |
+## String
+|  |
+| ------- |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/2011-final-value-of-variable-after-performing-operations) |
+## Simulation
+|  |
+| ------- |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/2011-final-value-of-variable-after-performing-operations) |
 <!---LeetCode Topics End-->
