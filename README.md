@@ -16,11 +16,13 @@ Here are the Leet code solutions of my completed code problems
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0231-power-of-two) |
 ## Array
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0283-move-zeroes) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Two Pointers
