@@ -24,6 +24,7 @@ Here are the Leet code solutions of my completed code problems
 | ------- |
 | [0088-merge-sorted-array](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0283-move-zeroes) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -54,6 +55,7 @@ Here are the Leet code solutions of my completed code problems
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0169-majority-element) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Heap (Priority Queue)
 |  |
@@ -63,4 +65,20 @@ Here are the Leet code solutions of my completed code problems
 |  |
 | ------- |
 | [2500-delete-greatest-value-in-each-row](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/2500-delete-greatest-value-in-each-row) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
