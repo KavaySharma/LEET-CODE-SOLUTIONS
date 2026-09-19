@@ -8,17 +8,20 @@ Here are the Leet code solutions of my completed code problems
 | ------- |
 | [0231-power-of-two](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0342-power-of-four) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Recursion
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0342-power-of-four) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0342-power-of-four) |
 ## Array
 |  |
 | ------- |
