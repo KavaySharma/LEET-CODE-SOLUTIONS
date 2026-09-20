@@ -26,6 +26,7 @@ Here are the Leet code solutions of my completed code problems
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0169-majority-element) |
@@ -37,6 +38,7 @@ Here are the Leet code solutions of my completed code problems
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0283-move-zeroes) |
 ## Binary Search
@@ -59,6 +61,7 @@ Here are the Leet code solutions of my completed code problems
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0169-majority-element) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/2500-delete-greatest-value-in-each-row) |
@@ -88,4 +91,12 @@ Here are the Leet code solutions of my completed code problems
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0169-majority-element) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
