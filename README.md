@@ -13,6 +13,7 @@ Here are the Leet code solutions of my completed code problems
 | [0342-power-of-four](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0342-power-of-four) |
 | [0441-arranging-coins](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0507-perfect-number) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1512-number-of-good-pairs](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/1512-number-of-good-pairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Recursion
