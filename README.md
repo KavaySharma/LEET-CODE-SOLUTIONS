@@ -16,6 +16,7 @@ Here are the Leet code solutions of my completed code problems
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1512-number-of-good-pairs](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/1512-number-of-good-pairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/1822-sign-of-the-product-of-an-array) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Recursion
 |  |
 | ------- |
@@ -43,6 +44,7 @@ Here are the Leet code solutions of my completed code problems
 | [1822-sign-of-the-product-of-an-array](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/2500-delete-greatest-value-in-each-row) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
 |  |
 | ------- |
