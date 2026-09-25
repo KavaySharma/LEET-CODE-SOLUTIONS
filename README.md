@@ -41,6 +41,7 @@ Here are the Leet code solutions of my completed code problems
 | [0169-majority-element](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0283-move-zeroes) |
+| [0704-binary-search](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0977-squares-of-a-sorted-array) |
 | [1512-number-of-good-pairs](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/1512-number-of-good-pairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -60,6 +61,7 @@ Here are the Leet code solutions of my completed code problems
 | [0268-missing-number](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0278-first-bad-version) |
 | [0441-arranging-coins](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0441-arranging-coins) |
+| [0704-binary-search](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0704-binary-search) |
 ## Interactive
 |  |
 | ------- |
