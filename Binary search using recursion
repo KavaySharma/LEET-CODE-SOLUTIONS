@@ -1,0 +1,25 @@
+class Solution {
+public:
+    int ans(vector<int>&nums,int target, int s, int e){
+        int mid = s + (e-s)/2;
+        if(s>e){
+            return -1;
+        }
+        if(nums[mid]==target){
+            return mid;
+        }
+        else if(nums[mid]>target){
+            return ans(nums, target ,0,mid -1);
+        }
+        else{
+            return ans(nums, target ,mid +1, e);
+        }
+        return 0;
+    }
+    int search(vector<int>& nums, int target) {
+        int s = 0;
+        int r = nums.size()-1;
+        return ans(nums, target ,s,r);
+        return 0;
+    }
+};
