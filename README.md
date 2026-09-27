@@ -32,6 +32,7 @@ Here are the Leet code solutions of my completed code problems
 | [0231-power-of-two](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0389-find-the-difference) |
 ## Array
 |  |
 | ------- |
@@ -69,6 +70,7 @@ Here are the Leet code solutions of my completed code problems
 ## String
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0389-find-the-difference) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Simulation
 |  |
@@ -82,6 +84,7 @@ Here are the Leet code solutions of my completed code problems
 | [0088-merge-sorted-array](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0389-find-the-difference) |
 | [0977-squares-of-a-sorted-array](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0977-squares-of-a-sorted-array) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Heap (Priority Queue)
@@ -97,6 +100,7 @@ Here are the Leet code solutions of my completed code problems
 | ------- |
 | [0169-majority-element](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0389-find-the-difference) |
 | [1512-number-of-good-pairs](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/1512-number-of-good-pairs) |
 ## Divide and Conquer
 |  |
