@@ -44,6 +44,7 @@ Here are the Leet code solutions of my completed code problems
 | [0283-move-zeroes](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0977-squares-of-a-sorted-array) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1512-number-of-good-pairs](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/1512-number-of-good-pairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/2011-final-value-of-variable-after-performing-operations) |
