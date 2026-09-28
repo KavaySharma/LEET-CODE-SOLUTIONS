@@ -44,6 +44,7 @@ Here are the Leet code solutions of my completed code problems
 | [0283-move-zeroes](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1512-number-of-good-pairs](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/1512-number-of-good-pairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -57,6 +58,7 @@ Here are the Leet code solutions of my completed code problems
 | [0088-merge-sorted-array](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
@@ -64,6 +66,7 @@ Here are the Leet code solutions of my completed code problems
 | [0278-first-bad-version](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0278-first-bad-version) |
 | [0441-arranging-coins](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0704-binary-search) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Interactive
 |  |
 | ------- |
@@ -87,6 +90,7 @@ Here are the Leet code solutions of my completed code problems
 | [0268-missing-number](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0389-find-the-difference) |
 | [0977-squares-of-a-sorted-array](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Heap (Priority Queue)
 |  |
