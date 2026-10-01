@@ -14,6 +14,7 @@ Here are the Leet code solutions of my completed code problems
 | [0342-power-of-four](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0441-arranging-coins) |
+| [0504-base-7](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0507-perfect-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1512-number-of-good-pairs](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/1512-number-of-good-pairs) |
@@ -86,6 +87,7 @@ Here are the Leet code solutions of my completed code problems
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0389-find-the-difference](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0389-find-the-difference) |
+| [0504-base-7](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0504-base-7) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Simulation
 |  |
