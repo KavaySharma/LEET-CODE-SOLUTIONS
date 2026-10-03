@@ -7,6 +7,7 @@ Here are the Leet code solutions of my completed code problems
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0268-missing-number) |
@@ -164,4 +165,12 @@ Here are the Leet code solutions of my completed code problems
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
