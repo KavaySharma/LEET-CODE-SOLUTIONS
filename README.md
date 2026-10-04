@@ -86,6 +86,7 @@ Here are the Leet code solutions of my completed code problems
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0242-valid-anagram](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0389-find-the-difference) |
@@ -168,9 +169,18 @@ Here are the Leet code solutions of my completed code problems
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0070-climbing-stairs) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
