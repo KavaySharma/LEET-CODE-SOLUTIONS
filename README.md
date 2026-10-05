@@ -53,6 +53,7 @@ Here are the Leet code solutions of my completed code problems
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1512-number-of-good-pairs](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/1512-number-of-good-pairs) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/2500-delete-greatest-value-in-each-row) |
@@ -92,6 +93,7 @@ Here are the Leet code solutions of my completed code problems
 | [0383-ransom-note](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0389-find-the-difference) |
 | [0504-base-7](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0504-base-7) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Simulation
 |  |
