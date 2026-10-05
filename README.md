@@ -89,6 +89,7 @@ Here are the Leet code solutions of my completed code problems
 | [0022-generate-parentheses](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0242-valid-anagram](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0389-find-the-difference) |
 | [0504-base-7](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0504-base-7) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -127,6 +128,7 @@ Here are the Leet code solutions of my completed code problems
 | [0268-missing-number](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0389-find-the-difference) |
 | [1512-number-of-good-pairs](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/1512-number-of-good-pairs) |
 ## Divide and Conquer
@@ -137,6 +139,7 @@ Here are the Leet code solutions of my completed code problems
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0383-ransom-note) |
 | [1512-number-of-good-pairs](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/1512-number-of-good-pairs) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
