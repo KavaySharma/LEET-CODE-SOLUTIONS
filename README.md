@@ -50,6 +50,7 @@ Here are the Leet code solutions of my completed code problems
 | [0485-max-consecutive-ones](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0704-binary-search) |
 | [0766-toeplitz-matrix](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0766-toeplitz-matrix) |
+| [0896-monotonic-array](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0896-monotonic-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0977-squares-of-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/1431-kids-with-the-greatest-number-of-candies) |
