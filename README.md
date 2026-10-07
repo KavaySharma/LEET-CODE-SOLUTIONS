@@ -21,6 +21,7 @@ Here are the Leet code solutions of my completed code problems
 | [1512-number-of-good-pairs](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/1512-number-of-good-pairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/1822-sign-of-the-product-of-an-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3783-mirror-distance-of-an-integer](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/3783-mirror-distance-of-an-integer) |
 ## Recursion
 |  |
 | ------- |
