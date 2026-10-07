@@ -61,6 +61,7 @@ Here are the Leet code solutions of my completed code problems
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/2500-delete-greatest-value-in-each-row) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3925-concatenate-array-with-reverse](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
 |  |
 | ------- |
@@ -103,6 +104,7 @@ Here are the Leet code solutions of my completed code problems
 | ------- |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/2500-delete-greatest-value-in-each-row) |
+| [3925-concatenate-array-with-reverse](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/3925-concatenate-array-with-reverse) |
 ## Sorting
 |  |
 | ------- |
