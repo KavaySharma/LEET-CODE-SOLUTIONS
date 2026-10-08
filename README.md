@@ -20,6 +20,7 @@ Here are the Leet code solutions of my completed code problems
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1512-number-of-good-pairs](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/1512-number-of-good-pairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2469-convert-the-temperature](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/2469-convert-the-temperature) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3783-mirror-distance-of-an-integer](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/3783-mirror-distance-of-an-integer) |
 ## Recursion
