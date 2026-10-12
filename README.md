@@ -55,6 +55,7 @@ Here are the Leet code solutions of my completed code problems
 | [0766-toeplitz-matrix](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0766-toeplitz-matrix) |
 | [0896-monotonic-array](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0896-monotonic-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/1051-height-checker) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1512-number-of-good-pairs](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/1512-number-of-good-pairs) |
@@ -125,6 +126,7 @@ Here are the Leet code solutions of my completed code problems
 | [0350-intersection-of-two-arrays-ii](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0389-find-the-difference) |
 | [0977-squares-of-a-sorted-array](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/1051-height-checker) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Heap (Priority Queue)
@@ -169,6 +171,7 @@ Here are the Leet code solutions of my completed code problems
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0075-sort-colors) |
+| [1051-height-checker](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/1051-height-checker) |
 ## String Matching
 |  |
 | ------- |
@@ -206,4 +209,8 @@ Here are the Leet code solutions of my completed code problems
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
