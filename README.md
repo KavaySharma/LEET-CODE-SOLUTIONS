@@ -64,6 +64,7 @@ Here are the Leet code solutions of my completed code problems
 | [1822-sign-of-the-product-of-an-array](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/2500-delete-greatest-value-in-each-row) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3701-compute-alternating-sum](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/3701-compute-alternating-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/3925-concatenate-array-with-reverse) |
@@ -221,4 +222,8 @@ Here are the Leet code solutions of my completed code problems
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0707-design-linked-list) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
