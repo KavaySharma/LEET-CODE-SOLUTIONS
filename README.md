@@ -213,4 +213,12 @@ Here are the Leet code solutions of my completed code problems
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/1051-height-checker) |
+## Linked List
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0707-design-linked-list) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
