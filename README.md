@@ -18,6 +18,7 @@ Here are the Leet code solutions of my completed code problems
 | [0504-base-7](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0507-perfect-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1486-xor-operation-in-an-array](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/1512-number-of-good-pairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2235-add-two-integers](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/2235-add-two-integers) |
@@ -40,6 +41,7 @@ Here are the Leet code solutions of my completed code problems
 | [0268-missing-number](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0389-find-the-difference) |
+| [1486-xor-operation-in-an-array](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/1486-xor-operation-in-an-array) |
 ## Array
 |  |
 | ------- |
