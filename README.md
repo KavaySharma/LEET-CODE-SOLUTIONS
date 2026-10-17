@@ -24,6 +24,7 @@ Here are the Leet code solutions of my completed code problems
 | [2235-add-two-integers](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [2652-sum-multiples](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/2652-sum-multiples) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3783-mirror-distance-of-an-integer](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/3783-mirror-distance-of-an-integer) |
