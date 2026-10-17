@@ -23,6 +23,7 @@ Here are the Leet code solutions of my completed code problems
 | [1822-sign-of-the-product-of-an-array](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2235-add-two-integers](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/2469-convert-the-temperature) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3783-mirror-distance-of-an-integer](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/3783-mirror-distance-of-an-integer) |
