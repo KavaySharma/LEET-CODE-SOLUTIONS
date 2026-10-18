@@ -70,6 +70,7 @@ Here are the Leet code solutions of my completed code problems
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3701-compute-alternating-sum](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/3701-compute-alternating-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/3925-concatenate-array-with-reverse) |
@@ -155,6 +156,7 @@ Here are the Leet code solutions of my completed code problems
 | [0383-ransom-note](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0389-find-the-difference) |
 | [1512-number-of-good-pairs](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/1512-number-of-good-pairs) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/3162-find-the-number-of-good-pairs-i) |
 ## Divide and Conquer
 |  |
 | ------- |
