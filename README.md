@@ -25,6 +25,7 @@ Here are the Leet code solutions of my completed code problems
 | [2469-convert-the-temperature](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/2652-sum-multiples) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3783-mirror-distance-of-an-integer](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/3783-mirror-distance-of-an-integer) |
@@ -73,6 +74,7 @@ Here are the Leet code solutions of my completed code problems
 | [2500-delete-greatest-value-in-each-row](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/3162-find-the-number-of-good-pairs-i) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3701-compute-alternating-sum](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/3701-compute-alternating-sum) |
 | [3925-concatenate-array-with-reverse](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/3925-concatenate-array-with-reverse) |
