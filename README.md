@@ -259,4 +259,8 @@ Here are the Leet code solutions of my completed code problems
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0141-linked-list-cycle) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
