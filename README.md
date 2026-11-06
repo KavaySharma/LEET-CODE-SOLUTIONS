@@ -26,6 +26,7 @@ Here are the Leet code solutions of my completed code problems
 | [2469-convert-the-temperature](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/2652-sum-multiples) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/3658-gcd-of-odd-and-even-sums) |
