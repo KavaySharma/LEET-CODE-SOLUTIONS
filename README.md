@@ -22,6 +22,7 @@ Here are the Leet code solutions of my completed code problems
 | [1486-xor-operation-in-an-array](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/1512-number-of-good-pairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/1822-sign-of-the-product-of-an-array) |
+| [2119-a-number-after-a-double-reversal](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/2520-count-the-digits-that-divide-a-number) |
