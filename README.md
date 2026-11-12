@@ -272,6 +272,7 @@ Here are the Leet code solutions of my completed code problems
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0175-combine-two-tables) |
+| [1757-recyclable-and-low-fat-products](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/1757-recyclable-and-low-fat-products) |
 ## Prefix Sum
 |  |
 | ------- |
