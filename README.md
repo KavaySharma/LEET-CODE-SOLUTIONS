@@ -65,6 +65,7 @@ Here are the Leet code solutions of my completed code problems
 | [0485-max-consecutive-ones](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0724-find-pivot-index) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0766-toeplitz-matrix](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0766-toeplitz-matrix) |
 | [0896-monotonic-array](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0896-monotonic-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0977-squares-of-a-sorted-array) |
@@ -111,6 +112,7 @@ Here are the Leet code solutions of my completed code problems
 | [0367-valid-perfect-square](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Interactive
