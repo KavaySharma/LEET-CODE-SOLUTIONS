@@ -53,6 +53,7 @@ Here are the Leet code solutions of my completed code problems
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0088-merge-sorted-array) |
@@ -123,6 +124,7 @@ Here are the Leet code solutions of my completed code problems
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0058-length-of-last-word) |
@@ -283,4 +285,8 @@ Here are the Leet code solutions of my completed code problems
 | ------- |
 | [0724-find-pivot-index](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/1732-find-the-highest-altitude) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
