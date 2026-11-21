@@ -293,6 +293,7 @@ Here are the Leet code solutions of my completed code problems
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0104-maximum-depth-of-binary-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -305,4 +306,5 @@ Here are the Leet code solutions of my completed code problems
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0104-maximum-depth-of-binary-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/2236-root-equals-sum-of-children) |
 <!---LeetCode Topics End-->
