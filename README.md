@@ -292,19 +292,23 @@ Here are the Leet code solutions of my completed code problems
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0104-maximum-depth-of-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0104-maximum-depth-of-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/2236-root-equals-sum-of-children) |
 <!---LeetCode Topics End-->
