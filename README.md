@@ -294,12 +294,14 @@ Here are the Leet code solutions of my completed code problems
 | ------- |
 | [0100-same-tree](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0144-binary-tree-preorder-traversal) |
 | [2236-root-equals-sum-of-children](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0144-binary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -310,5 +312,10 @@ Here are the Leet code solutions of my completed code problems
 | ------- |
 | [0100-same-tree](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0144-binary-tree-preorder-traversal) |
 | [2236-root-equals-sum-of-children](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/2236-root-equals-sum-of-children) |
+## Stack
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/KavaySharma/LEET-CODE-SOLUTIONS/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
